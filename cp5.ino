@@ -366,3 +366,10 @@ void loop()
     //keep-alive da comunicação com broker MQTT
     MQTT.loop();
 }
+
+
+Luiza Cristina Silva - RM99367
+Manoella Herrerias Waideman - RM98906
+Pedro Henrique Palladino - RM551180
+Renato Izumi Ichikawa - RM99242
+Victor Camargo Maciel - RM98384
